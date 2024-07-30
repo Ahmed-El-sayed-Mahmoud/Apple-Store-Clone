@@ -9,7 +9,7 @@ import NavBar from "./components/NavBar"
 function App() {
 
 
-  return (
+  /* return (
     <main className="bg-black">
       <NavBar/>
       <Hero/>
@@ -19,7 +19,8 @@ function App() {
       <Gaming/>
       <Footer/>
     </main>
-  )
+  ) */
+    return <button onClick={() => methodDoesNotExist()}>Break the world</button>;
 }
 
-export default App
+export default App;

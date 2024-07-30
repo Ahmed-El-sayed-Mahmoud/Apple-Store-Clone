@@ -38,7 +38,7 @@ function ImageComponent() {
         </div>
 
         <div className='py-10'>
-            <div className='flex justify-center flex-col items-center  sm:text-4xl  md:text-7xl text-7xl font-medium'>
+            <div className='flex justify-center flex-col items-center  sm:text-2xl  md:text-5xl text-7xl font-medium'>
                 <p>A17 Pro chip.</p>
                 <p>A monster win for gaming.</p>
                 <p className='hiw-subtitle'>
@@ -71,7 +71,7 @@ function ImageComponent() {
 
 
 
-            <div className='flex my-10 sm:my-15 gap-24'>
+            <div className='flex my-10 sm:my-15  gap-20'>
                 <div className='flex flex-col flex-1 w-full'>
                     <p className="hiw-text g_fadeIn">
                         A17 Pro is an entirely new class of iPhone chip that delivers our {' '}

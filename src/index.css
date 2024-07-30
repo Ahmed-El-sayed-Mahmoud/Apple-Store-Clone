@@ -112,7 +112,7 @@ canvas {
   }
 
   .hiw-text {
-    @apply text-gray text-xl font-normal md:font-semibold
+    @apply text-gray text-xl font-normal md:font-semibold 
   }
 
   .hiw-bigtext {
