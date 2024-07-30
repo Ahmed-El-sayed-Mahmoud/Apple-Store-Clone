@@ -20,7 +20,7 @@ function App() {
       <Footer/>
     </main>
   ) */
-    return <button onClick={() => methodDoesNotExist()}>Break the world</button>;
+    return <button onClick={() => De7kMethod()}>new Intneded Error</button>;
 }
 
 export default App;
